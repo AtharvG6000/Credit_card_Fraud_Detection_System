@@ -4,9 +4,8 @@ This repository contains the final year college project on Credit Card Fraud Det
 
 ## Authors
 
-- Deepak Shitole (204057)
-- Aditya Admane (204034)
-- Omkar Dabade (204017)
+- Deepak Shitole 
+- Gosavi Atharv
 
 ## Project Overview
 
